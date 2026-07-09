@@ -1,152 +1,92 @@
 # Al-Haq Initiative
 
-[![Community](https://img.shields.io/badge/Community-Driven-brightgreen)](https://github.com/alhaq-initiative)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success.svg)](#contributing)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/alhaq-initiative/.github/blob/main/LICENSE)
+[![Website](https://img.shields.io/badge/Website-alhaq.uk-0A2540)](https://alhaq.uk)
 
-> **Building a just and equitable future through community-centered development with Islamic ethical principles.**
+> **Seeking Truth in History, Protecting Health in the Present.**
 
-## About Us
+## About
 
-The **Al-Haq Initiative** is a community development organization dedicated to creating positive social impact through ethical practices rooted in Islamic principles. We work collaboratively to address community challenges, empower individuals, and foster sustainable development.
+The **Al-Haq Initiative** (مبادرة الحق) is a personal digital and literary movement led by **Afrasyaab Meranai** (also known as Habibur Rahman), focused on seeking truth in history and protecting mental and spiritual wellbeing.
 
-Our work is guided by the Islamic concepts of *Al-Haq* (truth and justice), *Khalifa* (stewardship), and *Ummah* (community), ensuring that all our initiatives reflect our commitment to:
+All free tools and community solutions are offered directly through the Al-Haq Initiative — built and backed by **Al-Haq Studio** (Al-Haq Digital Services & Solutions — UK sole trader), the founder's software studio.
 
-- **Justice and Fairness** - Treating all community members with dignity and equity
-- **Transparency and Accountability** - Operating with integrity in all our endeavors
-- **Ethical Excellence** - Maintaining the highest standards in community service
-- **Inclusive Collaboration** - Creating spaces where diverse voices are heard and valued
+### Mission Pillars
 
----
-
-## Our Core Values
-
-### 🕌 Islamic Principles
-- **Adl (Justice)** - Promoting fairness and equality in all community interactions
-- **Amanah (Trust)** - Serving as stewards of community resources with integrity
-- **Ihsan (Excellence)** - Striving for excellence in every aspect of our work
-- **Silat Al-Rahim (Family/Community Bonds)** - Strengthening community ties and relationships
-
-### 🤝 Ethical Commitments
-- **Integrity** - Upholding the highest standards of honesty and transparency
-- **Inclusivity** - Welcoming and empowering all members of the community
-- **Sustainability** - Creating lasting positive impact for future generations
-- **Respect** - Honoring the dignity and rights of every individual
+- **Truth in History** — Validate historical narratives through primary-source research
+- **Protection in the Present** — Tools that protect mental and spiritual wellbeing
+- **Resilience** — Strengthen the community through honest knowledge and ethical technology
 
 ---
 
-## Featured Initiatives
+## Products & Services
 
-Our portfolio of projects demonstrates our commitment to community development across multiple areas:
+Products currently available, developed by Al-Haq Studio:
 
-### Community Programs
-- Community engagement and awareness initiatives
-- Local partnership development and collaboration
-- Capacity building and skill development programs
-- Youth mentorship and leadership training
+### 🛡️ AmnShield
+Independent digital protection app for habit management and spiritual wellbeing. Freemium model with free and premium tiers.
+- **Website:** [amnshield.com](https://amnshield.com)
+- **Beta signup:** [alhaq.uk/amnshield_join_beta.html](https://alhaq.uk/amnshield_join_beta.html)
 
-### Social Development
-- Educational support and literacy programs
-- Healthcare awareness and wellness initiatives
-- Economic empowerment and livelihood support
-- Environmental sustainability projects
+### 🕌 Al-Haq Hub
+Islamic productivity mobile app — prayer times, Qibla, adhkaar, and productivity features with the Quran Hub AI recitation feedback engine (TaleemAI). Currently in Android beta.
+- **Learn more:** [alhaq.uk/alhaq-hub.html](https://alhaq.uk/alhaq-hub.html)
+- **Join beta:** [alhaq.uk/alhaq-hub-join-beta.html](https://alhaq.uk/alhaq-hub-join-beta.html)
 
-### Advocacy & Policy
-- Community rights awareness and advocacy
-- Policy development informed by community voices
-- Research and evidence-based initiatives
-- Platform for community-led change
+### 📖 Quran Hub
+Standalone web-based Quran reader with multiple translations and recitation support.
+- **Open:** [alhaq.uk/quran.html](https://alhaq.uk/quran.html)
+
+### 📚 Library & Media Hub
+Books, audio, and video resources including historical research and Islamic content.
+- **Browse:** [alhaq.uk/library.html](https://alhaq.uk/library.html) | [alhaq.uk/media.html](https://alhaq.uk/media.html)
+
+### 💼 Al-Haq Studio Services
+Web development, security consulting, and Islamic app delivery.
+- **View all:** [alhaq.uk/products.html](https://alhaq.uk/products.html)
 
 ---
 
-## Our Impact
+## Ongoing Projects
 
-We measure success by the positive change we create in our community:
-
-| Impact Area | Focus |
+| Project | Description |
 |---|---|
-| **Community Reach** | Engaging diverse populations across neighborhoods |
-| **Empowerment** | Building capacity and leadership among community members |
-| **Sustainability** | Creating programs with long-term community benefit |
-| **Partnership** | Collaborating with local organizations and stakeholders |
+| **Faith Sellers** (بائعي القدر) | Long-term translation and cross-referencing of Saladin's history against contemporary chroniclers (Ibn Shaddad, Ibn al-Athir) |
+| **Lessons from Islamic Civilization** | Booklets on academic and moral contributions of the past |
+| **The Caretaker's Guide** | Survival guide and historical perspective for young people (14+) in high-tension environments |
+| **Documentary Snippets** | Visual breakdowns of primary-source manuscripts |
+
+See all projects: [alhaq.uk/services.html](https://alhaq.uk/services.html)
 
 ---
 
-## Getting Involved
+## Our Values
 
-We welcome community members, partners, and volunteers who share our vision of justice and ethical community development.
+Guided by the Islamic concept of *Al-Haq* (الحق — The Truth):
 
-### 👥 How to Contribute
-- **Volunteer** - Join our team and contribute your skills and passion
-- **Collaborate** - Partner with us on community initiatives
-- **Advocate** - Help amplify community voices and raise awareness
-- **Support** - Contribute resources or expertise to our programs
-
-### 🙋 Join Our Community
-- Attend community events and programs
-- Participate in collaborative discussions
-- Share your ideas and feedback
-- Help us grow our network
-
-**Interested in getting involved?** [Contact us](#contact--connect) or visit our community spaces to learn more.
+- **Justice & Fairness** — Treating all community members with dignity and equity
+- **Transparency** — Operating with integrity and honesty
+- **Ethical Excellence** — Maintaining the highest standards in all work
+- **Primary Sources** — Prioritizing original historical documents over secondary interpretations
 
 ---
 
-## Resources
+## Support the Work
 
-### Documentation & Guidelines
-- [Contributing Guidelines](https://github.com/alhaq-initiative/.github/blob/main/CONTRIBUTING.md) - How to contribute to our initiatives
-- [Code of Conduct](https://github.com/alhaq-initiative/.github/blob/main/CODE_OF_CONDUCT.md) - Our community standards
-- [Governance](https://github.com/alhaq-initiative/.github/blob/main/GOVERNANCE.md) - How we organize and make decisions
+The Al-Haq Initiative is **not** a charity, non-profit, NGO, or registered organization. It is a personal initiative. Donations go to the founder as a UK sole trader (Al-Haq Studio), who personally commits to spending donation income on initiative projects.
 
-### Learning & Development
-- Community learning materials and resources
-- Workshop and training schedules
-- Event calendar and announcements
-
-### For Partners
-- Partnership opportunities and frameworks
-- Collaboration guidelines
-- Resource sharing and support
+- **Donate:** [alhaq.uk/donate.html](https://alhaq.uk/donate.html)
+- **GitHub Sponsors:** Preferred sponsorship channel for backing the founder
+- **Use AmnShield Premium:** Freemium revenue reinvested into the projects
+- **Share & Collaborate:** [alhaq.uk/contact.html](https://alhaq.uk/contact.html)
 
 ---
 
-## Transparency & Accountability
+## Contact
 
-We operate with full transparency and welcome community oversight:
-
-- **Regular Reports** - Sharing our progress and impact
-- **Community Feedback** - Your input shapes our direction
-- **Open Communication** - Direct lines to leadership
-- **Ethical Standards** - Adhering to our values in all decisions
-
----
-
-## Contact & Connect
-
-### Get in Touch
-- **Email** - [contact@alhaq-initiative.org](mailto:contact@alhaq-initiative.org)
-- **Website** - [www.alhaq-initiative.org](https://www.alhaq-initiative.org)
-- **GitHub** - [@alhaq-initiative](https://github.com/alhaq-initiative)
-
-### Follow Our Work
-- **Facebook** - [Al-Haq Initiative](https://facebook.com/alhaqinitiative)
-- **Twitter/X** - [@AlHaqInitiative](https://twitter.com/alhaqinitiative)
-- **LinkedIn** - [Al-Haq Initiative](https://linkedin.com/company/alhaq-initiative)
-- **Instagram** - [@alhaqinitiative](https://instagram.com/alhaqinitiative)
-
----
-
-## Community Guidelines
-
-We are committed to maintaining a welcoming and safe community space. All members are expected to:
-
-- Treat each other with respect and dignity
-- Engage constructively and in good faith
-- Support our commitment to justice and equity
-- Hold ourselves accountable to our values
-
-For detailed guidelines, please see our [Code of Conduct](https://github.com/alhaq-initiative/.github/blob/main/CODE_OF_CONDUCT.md).
+- **Email:** [contact@alhaq-initiative.org](mailto:contact@alhaq-initiative.org)
+- **Website:** [alhaq.uk](https://alhaq.uk)
+- **GitHub:** [@alhaq-initiative](https://github.com/alhaq-initiative)
 
 ---
 
@@ -156,31 +96,4 @@ All content and projects under the Al-Haq Initiative are licensed under the [MIT
 
 ---
 
-## Acknowledgments
-
-We acknowledge the contributions of:
-- **Community Members** - The heart of everything we do
-- **Partners & Collaborators** - Who strengthen our impact
-- **Volunteers & Supporters** - Who dedicate their time and talent
-- **Advisory Council** - Who guide our strategic direction
-
----
-
-## Our Commitment to You
-
-The Al-Haq Initiative is more than an organization—it's a community-driven movement rooted in Islamic principles of justice, stewardship, and excellence. We are committed to:
-
-✨ **Creating meaningful change** through ethical community development  
-🤲 **Serving with integrity** in all our work  
-🌱 **Building together** with diverse community voices  
-🌍 **Leaving a legacy** of justice and sustainability  
-
----
-
-**Questions? Ideas? Want to get involved?**  
-[Reach out today](#contact--connect) — we'd love to hear from you!
-
----
-
-*Last Updated: 2026*  
-*Al-Haq Initiative - Building Justice Through Community*
+*Al-Haq Initiative — Seeking Truth in History, Protecting Health in the Present.*
