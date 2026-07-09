@@ -1,7 +1,7 @@
 # Al-Haq Initiative
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-alhaq.uk-0A2540)](https://alhaq.uk)
+[![Website](https://img.shields.io/badge/Website-alhaq--initiative.org-0A2540)](https://alhaq-initiative.org)
 
 > **Seeking Truth in History, Protecting Health in the Present.**
 
@@ -26,24 +26,25 @@ Products currently available, developed by Al-Haq Studio:
 ### 🛡️ AmnShield
 Independent digital protection app for habit management and spiritual wellbeing. Freemium model with free and premium tiers.
 - **Website:** [amnshield.com](https://amnshield.com)
-- **Beta signup:** [alhaq.uk/amnshield_join_beta.html](https://alhaq.uk/amnshield_join_beta.html)
+- **Beta signup:** [alhaq-initiative.org/amnshield_join_beta.html](https://alhaq-initiative.org/amnshield_join_beta.html)
 
 ### 🕌 Al-Haq Hub
 Islamic productivity mobile app — prayer times, Qibla, adhkaar, and productivity features with the Quran Hub AI recitation feedback engine (TaleemAI). Currently in Android beta.
-- **Learn more:** [alhaq.uk/alhaq-hub.html](https://alhaq.uk/alhaq-hub.html)
-- **Join beta:** [alhaq.uk/alhaq-hub-join-beta.html](https://alhaq.uk/alhaq-hub-join-beta.html)
+- **Learn more:** [alhaq-initiative.org/alhaq-hub.html](https://alhaq-initiative.org/alhaq-hub.html)
+- **Join beta:** [alhaq-initiative.org/alhaq-hub-join-beta.html](https://alhaq-initiative.org/alhaq-hub-join-beta.html)
 
 ### 📖 Quran Hub
 Standalone web-based Quran reader with multiple translations and recitation support.
-- **Open:** [alhaq.uk/quran.html](https://alhaq.uk/quran.html)
+- **Open:** [alhaq-initiative.org/quran.html](https://alhaq-initiative.org/quran.html)
 
 ### 📚 Library & Media Hub
 Books, audio, and video resources including historical research and Islamic content.
-- **Browse:** [alhaq.uk/library.html](https://alhaq.uk/library.html) | [alhaq.uk/media.html](https://alhaq.uk/media.html)
+- **Browse:** [alhaq-initiative.org/library.html](https://alhaq-initiative.org/library.html) | [alhaq-initiative.org/media.html](https://alhaq-initiative.org/media.html)
 
 ### 💼 Al-Haq Studio Services
 Web development, security consulting, and Islamic app delivery.
-- **View all:** [alhaq.uk/products.html](https://alhaq.uk/products.html)
+- **View all:** [alhaq-initiative.org/products.html](https://alhaq-initiative.org/products.html)
+- **Studio Website:** [alhaq.uk](https://alhaq.uk)
 
 ---
 
@@ -56,7 +57,7 @@ Web development, security consulting, and Islamic app delivery.
 | **The Caretaker's Guide** | Survival guide and historical perspective for young people (14+) in high-tension environments |
 | **Documentary Snippets** | Visual breakdowns of primary-source manuscripts |
 
-See all projects: [alhaq.uk/services.html](https://alhaq.uk/services.html)
+See all projects: [alhaq-initiative.org/services.html](https://alhaq-initiative.org/services.html)
 
 ---
 
@@ -75,17 +76,17 @@ Guided by the Islamic concept of *Al-Haq* (الحق — The Truth):
 
 The Al-Haq Initiative is **not** a charity, non-profit, NGO, or registered organization. It is a personal initiative. Donations go to the founder as a UK sole trader (Al-Haq Studio), who personally commits to spending donation income on initiative projects.
 
-- **Donate:** [alhaq.uk/donate.html](https://alhaq.uk/donate.html)
+- **Donate:** [alhaq-initiative.org/donate.html](https://alhaq-initiative.org/donate.html)
 - **GitHub Sponsors:** Preferred sponsorship channel for backing the founder
 - **Use AmnShield Premium:** Freemium revenue reinvested into the projects
-- **Share & Collaborate:** [alhaq.uk/contact.html](https://alhaq.uk/contact.html)
+- **Share & Collaborate:** [alhaq-initiative.org/contact.html](https://alhaq-initiative.org/contact.html)
 
 ---
 
 ## Contact
 
 - **Email:** [contact@alhaq-initiative.org](mailto:contact@alhaq-initiative.org)
-- **Website:** [alhaq.uk](https://alhaq.uk)
+- **Website:** [alhaq-initiative.org](https://alhaq-initiative.org)
 - **GitHub:** [@alhaq-initiative](https://github.com/alhaq-initiative)
 
 ---
