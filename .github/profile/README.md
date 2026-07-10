@@ -1,6 +1,6 @@
 # Al-Haq Initiative
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/alhaq-initiative/.github/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/Website-alhaq--initiative.org-0A2540)](https://alhaq-initiative.org)
 
 > **Seeking Truth in History, Protecting Health in the Present.**
@@ -93,7 +93,7 @@ The Al-Haq Initiative is **not** a charity, non-profit, NGO, or registered organ
 
 ## License
 
-All content and projects under the Al-Haq Initiative are licensed under the [MIT License](LICENSE) unless otherwise specified.
+All content and projects under the Al-Haq Initiative are licensed under the [MIT License](https://github.com/alhaq-initiative/.github/blob/main/LICENSE) unless otherwise specified.
 
 ---
 
